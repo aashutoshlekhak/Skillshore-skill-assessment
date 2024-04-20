@@ -1,14 +1,10 @@
-# SkillShore
-
-Welcome to SkillShore. This is a web application that provides a platform to assess user's programming skills.
-
 ## Installation
 
 To get started with the SkillShore Web App, follow these steps:
 
 # Clone the repository
 
-git clone https://github.com/kundankarna1994/skillshore-frontend.git
+git clone https://github.com/aashutoshlekhak/Skillshore-skill-assessment
 
 # Navigate to the project folder
 
